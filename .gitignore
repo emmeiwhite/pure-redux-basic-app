@@ -1,0 +1,2 @@
+# dependencies : Now git will ignore /node-modules and all the dependencies will not get committed, we simply need to clone the app, and run npm install to get the all the dependencies
+/node_modules
