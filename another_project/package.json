@@ -1,0 +1,18 @@
+{
+  "name": "again_redux-without_react",
+  "version": "1.0.0",
+  "description": "'i am coming back, i will be better and stronger because of it\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "store"
+  ],
+  "author": "imran rafiq rather",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.1"
+  }
+}
